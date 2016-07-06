@@ -150,6 +150,6 @@ ggplot(data = d_natl, aes(x = date, y = hpi))+
   )
 ```
 
-<img src="figures/plotNatl-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="images/plotNatl-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 
