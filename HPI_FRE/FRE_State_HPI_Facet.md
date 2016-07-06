@@ -260,7 +260,7 @@ p0 <- ggplot(data = d_states, aes(x = date, y = hpi))+ #Data input for graph, x 
 p0
 ```
 
-<img src="FRE_State_HPI_Facet_files/figure-html/plot-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="FRE_State_HPI_Facet_files/images/plot-1.png" title="State_Facet_HPI_Fre" alt="" style="display: block; margin: auto;" />
 
 The annotations are still a little crowded, so we may want to break up the facet into 25 or better viewing.
 
