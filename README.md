@@ -1,9 +1,9 @@
 # HOLD FOR SELECTION OF DATA ANALYSIS ON HOUSING
 
 1. HPI - Freddie Mac
-+ [National HPI][1]
-+ [State Facet][2]
-+ [State Interactive Map][3]
+  * [National HPI][1]
+  * [State Facet][2]
+  * [State Interactive Map][3]
 
 
 [1]: HOLD
