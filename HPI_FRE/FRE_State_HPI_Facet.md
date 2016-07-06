@@ -262,7 +262,7 @@ p0
 
 <img src="images/plot-1.png" title="" alt="" style="display: block; margin: auto;" />
 
-The annotations are still a little crowded, so we may want to break up the facet into 25 or better viewing.
+The annotations are still a little crowded, so we may want to break up the facet into 25 for better viewing.
 
 [1]: http://www.freddiemac.com/finance/house_price_index.html
 [2]: http://www.freddiemac.com/finance/fmhpi/docs/FMHPI.pdf
