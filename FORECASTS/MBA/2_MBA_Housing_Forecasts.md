@@ -96,15 +96,15 @@ m_dol <- purch_refi%>%filter(!grepl('Share', variable))
 
 ##Housing Starts
 
-<img src="2_MBA_Housing_Forecasts_files/figure-html/p1Starts-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p1Starts-1.png" title="" alt="" align = "center" style="display: block; margin: auto;" />
 
 ##Total Sales (Incl Condos)
 
-<img src="2_MBA_Housing_Forecasts_files/figure-html/p2Sales-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p2Sales-1.png" title="" alt="" align = "center" style="display: block; margin: auto;" />
 
 ##Origination by Loan Type
 
-<img src="2_MBA_Housing_Forecasts_files/figure-html/p4OrigLoanType-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p4OrigLoanType-1.png" title="" alt="" align = "center" style="display: block; margin: auto;" />
 
 [1]: https://www.mba.org/news-research-and-resources/research-and-economics/forecasts-and-commentary/mortgage-finance-forecast-archives
 [2]: http://tabula.technology/
