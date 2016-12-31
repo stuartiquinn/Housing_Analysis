@@ -133,20 +133,19 @@ m_dol <- purch_refi%>%filter(grepl('Dol', variable))
 
 ##Housing Starts
 
-<img src="C:\Users\Stuart\Documents\output\1_FRE_Housing_Forecasts_files/figure-html/p1Starts-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p1Starts-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 ##Total Sales (Incl Condos)
 
-<img src="C:\Users\Stuart\Documents\output\1_FRE_Housing_Forecasts_files/figure-html/p2Sales-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p2Sales-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 ##Origination by Investor
 
-<img src="C:\Users\Stuart\Documents\output\1_FRE_Housing_Forecasts_files/figure-html/p3Orig-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p3Orig-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 ##Origination by Loan Type
 
-<img src="C:\Users\Stuart\Documents\output\1_FRE_Housing_Forecasts_files/figure-html/p4OrigLoanType-1.png" title="" alt="" style="display: block; margin: auto;" />
-
+<img src="figures/p4OrigLoanType-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 
 ```r
