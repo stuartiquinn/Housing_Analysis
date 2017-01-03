@@ -335,7 +335,7 @@ p2_sales <- ggplot(d_qtr_sub_avg)+
 p2_sales
 ```
 
-<img src="_ALL_HOUSING_FORECASTS_files/figure-html/p2Sales-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p2Sales-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 ```r
 p2.1_sales <- ggplot(d_qtr_sub)+
@@ -367,7 +367,7 @@ p2.1_sales <- ggplot(d_qtr_sub)+
 p2.1_sales
 ```
 
-<img src="_ALL_HOUSING_FORECASTS_files/figure-html/p2Sales-2.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p2Sales-2.png" title="" alt="" style="display: block; margin: auto;" />
 
 ###Components of Sales
 
@@ -411,7 +411,7 @@ p2.2_sales <- ggplot(d_sales_components, aes(x = as.factor(date), y = value, fil
 p2.2_sales
 ```
 
-<img src="_ALL_HOUSING_FORECASTS_files/figure-html/p3SaleComponents-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p3SaleComponents-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 ##Originations
 
@@ -441,7 +441,7 @@ p3_orig <- ggplot(d_qtr_sub_avg, aes(x = date, y = tot_orig_1to4))+
 p3_orig
 ```
 
-<img src="_ALL_HOUSING_FORECASTS_files/figure-html/p3Orig-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p3Orig-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 ```r
 p3.1_orig <- ggplot(d_qtr_sub,
@@ -472,7 +472,7 @@ p3.1_orig <- ggplot(d_qtr_sub,
 p3.1_orig
 ```
 
-<img src="_ALL_HOUSING_FORECASTS_files/figure-html/p3Orig-2.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p3Orig-2.png" title="" alt="" style="display: block; margin: auto;" />
 
 ###Origination Share
 
@@ -552,7 +552,7 @@ p5_rates <- ggplot(d_rates_avg, aes(x = date, y = as.numeric(value), color = var
 p5_rates
 ```
 
-<img src="_ALL_HOUSING_FORECASTS_files/figure-html/p5Rates-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p5Rates-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 ```r
 p5.1_rates <- ggplot(d_rates_entity, aes(x = date, y = as.numeric(value), color = entity))+
@@ -587,7 +587,7 @@ p5.1_rates <- ggplot(d_rates_entity, aes(x = date, y = as.numeric(value), color 
 p5.1_rates
 ```
 
-<img src="_ALL_HOUSING_FORECASTS_files/figure-html/p5Rates-2.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="figures/p5Rates-2.png" title="" alt="" style="display: block; margin: auto;" />
 
 ##Table of Aggregation Averages
 
