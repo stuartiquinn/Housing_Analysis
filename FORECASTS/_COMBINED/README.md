@@ -305,8 +305,7 @@ p1_hpi_agg <- ggplot(d_qtr_sub_avg)+
 p1_hpi_agg
 ```
 
-<img src="_ALL_HOUSING_FORECASTS_files/figure-html/p1HPI-1.png" title="" alt="" style="display: block; margin: auto;" />
-
+<img src="figures/p1HPI-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 ##Home Sales
 
